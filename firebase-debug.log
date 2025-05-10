@@ -1,0 +1,25 @@
+[debug] [2025-05-10T11:38:24.087Z] ----------------------------------------------------------------------
+[debug] [2025-05-10T11:38:24.089Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\sharp\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2025-05-10T11:38:24.089Z] CLI Version:   14.3.1
+[debug] [2025-05-10T11:38:24.089Z] Platform:      win32
+[debug] [2025-05-10T11:38:24.089Z] Node Version:  v22.15.0
+[debug] [2025-05-10T11:38:24.090Z] Time:          Sat May 10 2025 17:08:24 GMT+0530 (India Standard Time)
+[debug] [2025-05-10T11:38:24.090Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-05-10T11:38:24.095Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-05-10T11:38:24.095Z] > authorizing via signed-in user (anoor.13pal@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\project\sharp119\profit_grocery_site
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
